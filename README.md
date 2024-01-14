@@ -79,4 +79,6 @@ This repository contains VHDL code for a comprehensive Elevator Control System. 
 @@ -113,17 +136,4 @@ Traditional elevator control systems often lack flexibility and extensibility, m
   - `Display1`: Output 7-segment display for floor representation.
   - `Display2`: Output 7-segment display for floor representation.
+
+  
 ![BCD-dec](https://github.com/SuzyAdel/Elevator-Control-System/assets/128175020/131fe869-34a4-4cb8-84b0-14059c4a3720)
